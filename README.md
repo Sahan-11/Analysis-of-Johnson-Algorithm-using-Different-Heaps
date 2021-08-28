@@ -1,1 +1,1 @@
-# Analysis-of-Johnson-s-Algorithm-using-different-Heaps
+# Analysis of Johnson's Algorithm using Different Heaps
